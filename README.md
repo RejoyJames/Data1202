@@ -13,3 +13,7 @@ We load libraries like numpy and pandas. We will load the csv file.
 
 ### Creating the confusion matrix and evaluation report for neural network algorithm and decision tree
 We run codes to formulate the confusion matrix and evaluation report  for both algorithms separately.
+
+
+## Author
+Rejoy James fCMgr
